@@ -1,0 +1,29 @@
+[
+  {
+    "id": 100,
+    "title": "Kingsglaive",
+    "subtitle": "Final Fantasy XV",
+    "description": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal.",
+    "year": 2016,
+    "imageUrl": "../images/Appleseed_Alpha.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 200,
+    "title": "Final Fantasy",
+    "subtitle": "Spirits Within",
+    "description": "A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms.",
+    "year": 2001,
+    "imageUrl": "../images/Appleseed_Alpha.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 300,
+    "title": "Final Fantasy",
+    "subtitle": "Spirits Within",
+    "description": "A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms.",
+    "year": 2001,
+    "imageUrl": "../images/Appleseed_Alpha.jpg",
+    "rating": 4.5
+  }
+]
